@@ -1,0 +1,4 @@
+{
+    "defaultCommandTimeout": 8000,
+    "baseUrl": "https://local.rnd.projectplace.com"
+}
